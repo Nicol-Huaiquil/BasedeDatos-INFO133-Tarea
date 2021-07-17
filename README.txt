@@ -1,0 +1,1 @@
+En mapa.txt se debe cambiar la dirección de guardado del archivo .html
