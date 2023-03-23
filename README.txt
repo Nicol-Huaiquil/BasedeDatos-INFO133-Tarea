@@ -1,1 +1,2 @@
-En mapa.txt se debe cambiar la dirección de guardado del archivo .html
+INFO133 - Actividad de mapa con sonidos
+Asignatura de base de datos. 2021 quinto semestre
